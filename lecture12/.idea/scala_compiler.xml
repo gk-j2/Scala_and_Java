@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="lecture12_8099" />
+    <profile name="sbt 2" modules="lecture12">
+      <option name="deprecationWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-Ywarn-unused:implicits" />
+        <parameter value="-Ywarn-unused:imports" />
+        <parameter value="-Ywarn-unused:locals" />
+        <parameter value="-Ywarn-unused:params" />
+        <parameter value="-Ywarn-unused:patvars" />
+        <parameter value="-Ywarn-unused:privates" />
+      </parameters>
+    </profile>
+  </component>
+</project>

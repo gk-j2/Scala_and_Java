@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78b478a6-f6e2-4976-8d27-848b7bb121ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture03/examples/Example01Class.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture03/examples/Example01Class.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture03/examples/Example21TraitsLinearization.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture03/examples/Example21TraitsLinearization.scala" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="174" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1S1WbxSTSRfztLHLd9yn98GFbBn" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Example30SealedTrait">
+    <configuration name="Example09ClassAbstract" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture03.examples.Example09ClassAbstract" />
+      <module name="lecture03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture03.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example21TraitsLinearization" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture03.examples.Example21TraitsLinearization" />
+      <module name="lecture03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture03.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example22TraitsSelfTyping" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture03.examples.Example22TraitsSelfTyping" />
+      <module name="lecture03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture03.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example30MatchError" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture03.examples.Example30MatchError" />
+      <module name="lecture03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture03.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example30SealedTrait" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture03.examples.Example30SealedTrait" />
+      <module name="lecture03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture03.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example30SealedTrait" />
+        <item itemvalue="Application.Example30MatchError" />
+        <item itemvalue="Application.Example22TraitsSelfTyping" />
+        <item itemvalue="Application.Example21TraitsLinearization" />
+        <item itemvalue="Application.Example09ClassAbstract" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lecture03" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lecture03 [file:/home/herrison/lecture03/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lecture03-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3141463066930" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3834363710" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../assignment01" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78b478a6-f6e2-4976-8d27-848b7bb121ab" name="Default Changelist" comment="" />
+      <created>1570731658625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570731658625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lecture03$Example21TraitsLinearization.ic" NAME="Example21TraitsLinearization Coverage Results" MODIFIED="1570737674224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fintech.lecture03.examples.*</FILTER>
+    </SUITE>
+  </component>
+</project>

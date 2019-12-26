@@ -1,0 +1,1 @@
+scalac -classpath /home/herrison/lecture04/target/scala-2.12/classes -bootclasspath /home/herrison/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar /home/herrison/lecture04/src/main/scala/fintech/lecture04/examples/Ex24CollectRecover.scala

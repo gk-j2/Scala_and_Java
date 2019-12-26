@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5806dfa-c3ab-4ece-a97f-07f1948ffb0f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UZhpTcsJu0w39NwACHgjZLe4vm" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lecture12" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ParsersApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture11.parser.ParsersApp" />
+      <module name="lecture11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture11.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParsersApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lecture11" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lecture11 [file:/home/herrison/lecture11/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lecture11-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3151139850988" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1733686370" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../assignment01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment02" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment03" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment04" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment05" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment06" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment07" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment08" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lecture03" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lecture04" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lecture05" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lecture06" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lecture07" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lecture08" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lecture09" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lecture10" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5806dfa-c3ab-4ece-a97f-07f1948ffb0f" name="Default Changelist" comment="" />
+      <created>1575570207278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575570207278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

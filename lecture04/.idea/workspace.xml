@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08a8f827-389d-4135-96fa-5945309d8b34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex01FuncDef.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex01FuncDef.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex04FuncNamedDefArgsDef.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex04FuncNamedDefArgsDef.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex05FuncByNameArgs.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex05FuncByNameArgs.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex06FuncVarArgs.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex06FuncVarArgs.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex09FuncTypeBounds.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex09FuncTypeBounds.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex12RecursionInner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex12RecursionInner.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex16FuncType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex16FuncType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex24CollectRecover.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/examples/Ex24CollectRecover.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/exercises/Exrsz1Ifff.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/exercises/Exrsz1Ifff.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/exercises/Exrsz2WhileToRec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fintech/lecture04/exercises/Exrsz2WhileToRec.scala" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SLIpBo71Brvu88D5XGw1yzrA81" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lecture05" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Exrsz4While">
+    <configuration name="Ex23PartialFunction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture04.examples.Ex23PartialFunction" />
+      <module name="lecture04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture04.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex24CollectRecover" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture04.examples.Ex24CollectRecover" />
+      <module name="lecture04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture04.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exrsz1Ifff" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture04.exercises.answers.Exrsz1Ifff" />
+      <module name="lecture04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture04.exercises.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exrsz2WhileToRec" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture04.exercises.answers.Exrsz2WhileToRec" />
+      <module name="lecture04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture04.exercises.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exrsz4While" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fintech.lecture04.exercises.answers.Exrsz4While" />
+      <module name="lecture04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fintech.lecture04.exercises.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exrsz4While" />
+        <item itemvalue="Application.Exrsz2WhileToRec" />
+        <item itemvalue="Application.Exrsz1Ifff" />
+        <item itemvalue="Application.Ex24CollectRecover" />
+        <item itemvalue="Application.Ex23PartialFunction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lecture04" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lecture04 [file:/home/herrison/lecture04/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lecture04-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3142672913842" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1583060858" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../assignment01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment02" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lecture03" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08a8f827-389d-4135-96fa-5945309d8b34" name="Default Changelist" comment="" />
+      <created>1571336630344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571336630344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

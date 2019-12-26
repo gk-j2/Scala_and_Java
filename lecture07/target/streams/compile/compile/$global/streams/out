@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/herrison/lecture07/project/target/.sbt-compilation-infos/lecture07-compile/.sbt-idea-lock ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/herrison/lecture07/src/main/scala/fintech/lecture/exercises/Exercise02FoldLeft.scala:6:57: missing parameter type for expanded function ((x$2: <error>) => x$2.$colon$colon)[0m
+[0m[[0m[31merror[0m] [0m[0m  def reverse[T](xs: List[T]): List[T] = xs.foldLeft(_)(_ :: )[0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/herrison/lecture07/src/main/scala/fintech/lecture/exercises/Exercise02FoldLeft.scala:6:53: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int[0m
+[0m[[0m[31merror[0m] [0m[0m required: T[0m
+[0m[[0m[31merror[0m] [0m[0m  def reverse[T](xs: List[T]): List[T] = xs.foldLeft(_)(_ :: )[0m
+[0m[[0m[31merror[0m] [0m[0m                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/herrison/lecture07/src/main/scala/fintech/lecture/exercises/Exercise02FoldLeft.scala:8:69: not enough arguments for method apply: (v1: Int)T in trait Function1.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter v1.[0m
+[0m[[0m[31merror[0m] [0m[0m  def map[T](xs: List[T])(f: Int => T): List[???] = xs.foldLeft(0)(f())[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/herrison/lecture07/src/main/scala/fintech/lecture/exercises/Exercise02FoldLeft.scala:8:64: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int[0m
+[0m[[0m[31merror[0m] [0m[0m required: List[fintech.lecture.exercises.Exercise02FoldLeft.???][0m
+[0m[[0m[31merror[0m] [0m[0m    (which expands to)  List[Nothing][0m
+[0m[[0m[31merror[0m] [0m[0m  def map[T](xs: List[T])(f: Int => T): List[???] = xs.foldLeft(0)(f())[0m
+[0m[[0m[31merror[0m] [0m[0m                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/herrison/lecture07/project/target/.sbt-compilation-infos/lecture07-compile/.sbt-idea-lock.[0m

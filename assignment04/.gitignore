@@ -1,0 +1,11 @@
+
+*.swn
+*.swo
+*.swp
+
+target
+project/target
+project/.bloop
+.metals
+.bloop
+.idea

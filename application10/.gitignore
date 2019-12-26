@@ -1,0 +1,8 @@
+project/target
+target
+.bloop
+.metals
+
+*.swn
+*.swo
+*.swp

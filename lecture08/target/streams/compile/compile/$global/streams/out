@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/herrison/lecture08/project/target/.sbt-compilation-infos/lecture08-compile/.sbt-idea-lock ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/herrison/lecture08/src/main/scala/fintech/exercises08/Exercise09.scala:25:33: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Payment.this.o.type (with underlying type A)[0m
+[0m[[0m[31merror[0m] [0m[0m required: A[0m
+[0m[[0m[31merror[0m] [0m[0m      Payment(moneyAmount, func(o))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/herrison/lecture08/src/main/scala/fintech/exercises08/Exercise09.scala:35:5: missing parameter type[0m
+[0m[[0m[31merror[0m] [0m[0m    coffee <- buyCoffee(donut.size)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/herrison/lecture08/src/main/scala/fintech/exercises08/Exercise09.scala:34:11: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : fintech.exercises08.Exercise09.Donut => fintech.exercises08.Exercise09.Payment[Nothing][0m
+[0m[[0m[31merror[0m] [0m[0m required: fintech.exercises08.Exercise09.Donut => fintech.exercises08.Exercise09.Payment[R][0m
+[0m[[0m[31merror[0m] [0m[0m    donut <- buyDonut[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/herrison/lecture08/project/target/.sbt-compilation-infos/lecture08-compile/.sbt-idea-lock.[0m

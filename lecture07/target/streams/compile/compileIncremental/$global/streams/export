@@ -1,0 +1,1 @@
+scalac -bootclasspath /home/herrison/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar -classpath /home/herrison/lecture07/target/scala-2.12/classes /home/herrison/lecture07/src/main/scala/fintech/lecture/exercises/Exercise02FoldLeft.scala

@@ -1,0 +1,130 @@
+package exercises
+
+// Используя функции io.readLine и io.printLine напишите игру "Виселица"
+// Пример ввода и тест можно найти в файле src/test/scala/fintech/homework01/HangmanTest.scala
+// Тест можно запустить через в IDE или через sbt (написав в консоли sbt test)
+
+// Правила игры "Виселица"
+// 1) Загадывается слово
+// 2) Игрок угадывает букву
+// 3) Если такая буква есть в слове - они открывается
+// 4) Если нет - рисуется следующий элемент висельника
+// 5) Последней рисуется "веревка". Это означает что игрок проиграл
+// 6) Если игрок все еще жив - перейти к пункту 2
+
+// Пример игры:
+
+// Word: _____
+// Guess a letter:
+// a
+// Word: __a_a
+// Guess a letter:
+// b
+// +----
+// |
+// |
+// |
+// |
+// |
+
+// и т.д.
+
+class Hangman(io: IODevice) {
+
+  def letterInWord(str: String, c: Char): Boolean = {
+    var res: Boolean = false
+    for (i <- 0 until str.length) if (c == str(i)) res = true
+    res
+  }
+
+  def play(word: String): Unit = {
+    var fault: Int = stages.length + 1
+    val str = ("_" * word.length).toCharArray
+
+    while ((fault != 1) && ((letterInWord(String.valueOf(str), '_')))) {
+      io.printLine("Word: " + String.valueOf(str))
+      io.printLine("Guess a letter:")
+      val letter: String = io.readLine()
+
+      if (letter.nonEmpty) {
+        if (letterInWord(word, letter(0))) {
+          for (i <- 0 until word.length) {
+            if (letter(0) == word(i)) str(i) = letter(0)
+          }
+        }
+        else fault -= 1
+        if (fault != stages.length+1) io.printLine(stages(stages.length - fault))
+      }
+    }
+    if (fault == 1) io.printLine("You are dead")
+    else {
+      io.printLine("Word: " + word)
+      io.printLine("GG")
+    }
+  }
+
+
+  val stages = List(
+    """+----
+      ||
+      ||
+      ||
+      ||
+      ||
+      |""".stripMargin,
+    """+----
+      ||
+      ||   O
+      ||
+      ||
+      ||
+      |""".stripMargin,
+    """+----
+      ||
+      ||   O
+      ||   |
+      ||
+      ||
+      |""".stripMargin,
+    """+----
+      ||
+      ||   O
+      ||   |
+      ||  /
+      ||
+      |""".stripMargin,
+    """+----
+      ||
+      ||   O
+      ||   |
+      ||  / \
+      ||
+      |""".stripMargin,
+    """+----
+      ||
+      ||   O
+      ||  /|
+      ||  / \
+      ||
+      |""".stripMargin,
+    """+----
+      ||
+      ||   O
+      ||  /|\
+      ||  / \
+      ||
+      |""".stripMargin,
+    """+----
+      ||   |
+      ||   O
+      ||  /|\
+      ||  / \
+      ||
+      |""".stripMargin
+  )
+}
+
+trait IODevice {
+  def printLine(text: String): Unit
+  def readLine(): String
+}

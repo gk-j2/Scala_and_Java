@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="30 seconds">
+
+  <!--
+  <logger name="fintech.lecture10.AppService" level="TRACE" />
+  -->
+
+  <appender name="FILE-DEBUG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <encoder>
+      <pattern>%d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n%ex{30}</pattern>
+    </encoder>
+
+    <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+      <fileNamePattern>logs\aggregator.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+      <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+        <maxFileSize>50MB</maxFileSize>
+      </timeBasedFileNamingAndTriggeringPolicy>
+    </rollingPolicy>
+  </appender>
+
+  <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%d{HH:mm:ss.SSS} %X{akkaSource} %-5level %logger{35} - %msg %n</pattern>
+    </encoder>
+  </appender>
+
+  <root level="INFO">
+    <appender-ref ref="STDOUT" />
+    <appender-ref ref="FILE-DEBUG" />
+  </root>
+</configuration>
+
